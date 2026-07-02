@@ -1,7 +1,5 @@
-1782969663295: / New Request Received
-1782969707223: /about New Request Received
-1782970039356: /about?myname=tejas New Request Received
-1782970241189: /about?myname=tejas New Request Received
-1782970389898: /about?myname=tejas New Request Received
-1782970537025: /about?myname=tejas New Request Received
-1782970640597: /search?search_query=tic_tac_toe New Request Received
+1782972201406: GET / New Request Received
+1782972276870: GET /about New Request Received
+1782972548739: GET / New Request Received
+1782972556733: GET /signup New Request Received
+1782972791943: GET /signup New Request Received
